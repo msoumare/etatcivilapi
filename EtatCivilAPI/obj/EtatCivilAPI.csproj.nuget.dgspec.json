@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\EtatCivilAPI.csproj": {}
+    "C:\\code\\etatcivilapi\\EtatCivilAPI\\EtatCivilAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\EtatCivilAPI.csproj": {
+    "C:\\code\\etatcivilapi\\EtatCivilAPI\\EtatCivilAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\EtatCivilAPI.csproj",
+        "projectUniqueName": "C:\\code\\etatcivilapi\\EtatCivilAPI\\EtatCivilAPI.csproj",
         "projectName": "EtatCivilAPI",
-        "projectPath": "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\EtatCivilAPI.csproj",
+        "projectPath": "C:\\code\\etatcivilapi\\EtatCivilAPI\\EtatCivilAPI.csproj",
         "packagesPath": "C:\\Users\\Mohamed Soumare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\obj\\",
+        "outputPath": "C:\\code\\etatcivilapi\\EtatCivilAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

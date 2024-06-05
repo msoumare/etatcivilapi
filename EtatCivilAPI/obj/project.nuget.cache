@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ND4oKQo2lqaNzItRAQrn9j4olwfo6iw3Q4fFTNVyP4eO4fN+xNd/3ARZXvGEiCd4dK3N94NwTxGFxFGhVYC4w==",
+  "dgSpecHash": "GLwooWp93Pbo86Ty9HUCWY/UtE2vkHrXaaL5UiyUZEyul6lR8afOOEn83udONarDNZ9u+aj7hYKAqHUyh4nRcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed Soumare\\Samples\\EtatCivilAPI\\EtatCivilAPI\\EtatCivilAPI.csproj",
+  "projectFilePath": "C:\\code\\etatcivilapi\\EtatCivilAPI\\EtatCivilAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
